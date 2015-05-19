@@ -15,7 +15,7 @@ Lua is commonly described as a "multi-paradigm" language, providing a small set 
 
 Lua is a dynamically typed language intended for use as an extension or scripting language, and is compact enough to fit on a variety of host platforms.
 
-In video game development, Lua is widely used as a scripting language by game programmers, perhaps due to its perceived easiness to embed, fast execution, and short learning curve.
+In video game development, *Lua is widely used as a scripting language by game programmers*, perhaps due to its perceived easiness to embed, fast execution, and short learning curve.
 
 [lua]: /images/lua.png
 

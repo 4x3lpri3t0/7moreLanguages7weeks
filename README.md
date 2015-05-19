@@ -7,7 +7,7 @@ See also the official repository: [7morelang](https://github.com/7lang/7morelang
 
 ## Programming Languages:
 
-### Lua ![lua]
+### ![lua] Lua
 
 Lightweight multi-paradigm programming language designed as a scripting language with extensible semantics as a primary goal. Lua is cross-platform since it is written in ANSI C and has a relatively simple C API.
 

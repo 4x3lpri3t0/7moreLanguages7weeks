@@ -1,3 +1,6 @@
+-- * Write a function called concatenate(a1,a2) that takes two arrays and returns a new array
+-- with all the elements of a1 followed by all the elements of a2.
+
 dofile('..\\..\\util.lua')
 
 function concatenate(a1, a2)
@@ -25,3 +28,8 @@ languages = {
 }
 
 print_table(concatenate(programmers, languages))
+
+
+-- * Our strict table implementation doesn't provide a way to delete items from the table. If we try the usual approach,
+-- treasure.gold = nil, we get a duplicate key error. Modify strict_write() to allow deleting keys (by setting their values to nil).
+

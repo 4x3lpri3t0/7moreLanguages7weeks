@@ -2,11 +2,11 @@
 
 // 42
 
-// The dot removes from the stack
+// The dot pops from the stack
 
 40 2 +
 
-// Without the dot at the end; 42 gets pushed into the stack
+// Without the dot at the end; 42 gets stacked
 
 20 5 + 4 * .
 

@@ -1,14 +1,14 @@
 10 0 > [ "pos" ] [ "neg" ] if .
 
-// "pos"
+! "pos"
 
 -5 0 > [ "pos" ] [ "neg" ] if .
 
-// "neg"
+! "neg"
 
 "cool" [ "yes" ] [ "no" ] if .
 
-// "yes"
+! "yes"
 
 
 
@@ -17,11 +17,11 @@
 
 10 0 > "pos" "neg" ? .
 
-// "pos"
+! "pos"
 
 -5 0 > "pos" "neg" ? .
 
-// "neg"
+! "neg"
 
 
 
@@ -30,8 +30,8 @@
 
 10 0 > [ "pos" . ] when
 
-// "pos"
+! "pos"
 
 -5 0 > [ "neg" . ] unless
 
-// "neg"
+! "neg"

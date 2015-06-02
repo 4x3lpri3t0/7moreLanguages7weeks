@@ -1,15 +1,15 @@
 7 2 = .
 
-// f
+! f
 
 4 2 > .
 
-// t
+! t
 
 "same" "same" = .
 
-// t
+! t
 
 "same" length "diff" length = .
 
-// t
+! t

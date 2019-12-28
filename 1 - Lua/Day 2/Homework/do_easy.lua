@@ -1,7 +1,7 @@
 -- * Write a function called concatenate(a1,a2) that takes two arrays and returns a new array
 -- with all the elements of a1 followed by all the elements of a2.
 
-dofile('..\\..\\util.lua')
+dofile([[C:\Users\priet\Desktop\7moreLanguages7weeks\1 - Lua\util.lua]])
 
 function concatenate(a1, a2)
 	newArray = {}

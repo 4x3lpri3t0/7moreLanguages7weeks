@@ -9,16 +9,47 @@ See also the official repository: [7morelang](https://github.com/7lang/7morelang
 
 ### ![lua] Lua
 
-Lightweight multi-paradigm programming language designed as a scripting language with extensible semantics as a primary goal. Lua is cross-platform since it is written in ANSI C and has a relatively simple C API.
-
-Lua is commonly described as a "multi-paradigm" language, providing a small set of general features that can be extended to fit different problem types, rather than providing a more complex and rigid specification to match a single paradigm. Lua, for instance, does not contain explicit support for inheritance, but allows it to be implemented with metatables.
-
-Lua is a dynamically typed language intended for use as an extension or scripting language, and is compact enough to fit on a variety of host platforms.
-
-In video game development, **Lua is widely used as a scripting language by game programmers**, perhaps due to its perceived easiness to embed, fast execution, and short learning curve.
+* Lightweight
+* Multi-paradigm scripting language 
+* Extensible semantics as a primary goal
+* Cross-platform (Written in ANSI C and has a relatively simple C API)
+* Small set of general features that can be extended to fit different problem types(rather than providing a more complex and rigid specification to match a single paradigm - e.g. inheritance can be implemented with metatables)
+* Dynamically typed language intended for use as an extension or scripting language
+* Compact enough to fit on a variety of host platforms
+* ***Widely used as a scripting language by game programmers**
+* Easiness to embed
+* Fast execution
+* Short learning curve
 
 [lua]: /images/lua.png
 
+[Lua Wiki](http://lua-users.org/wiki/)
+[Books](http://lua-users.org/wiki/LuaBooks)
+["Programming in Lua" book (free 1st edition)](https://www.lua.org/pil/contents.html)
+[Reference Manual](http://www.lua.org/manual/5.3/)
+[Integrating Lua into UE](https://wiki.unrealengine.com/Integrating_Lua)
+
+### ![factor] Factor
+
+* TODO
+
+* Stack-oriented 
+* Dynamically typed 
+* Automatic memory management
+* Metaprogramming features
+* Functional and object-oriented
+* Code structured around small procedures, called words
+* Something that would idiomatically be expressed with one procedure in another language would be written as several words in Factor
+* Each word takes a fixed number of arguments and has a fixed number of return values
+* Arguments to words are passed on a data stack (Stack is used just to organize calls to words, not as a datastructure)
+
+[factor]: /images/factor.png
+
+### Next language...
+
 ----
 
-[![Codeivate Signature](http://www.codeivate.com/users/zedronar/signature.jpg)](http://www.codeivate.com/users/zedronar)
+// TODO: Personal notes on which language...
+// - I enjoyed the most
+// - Find more useful
+// - Find innovative

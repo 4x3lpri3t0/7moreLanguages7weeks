@@ -7,7 +7,8 @@ See also the official repository: [7morelang](https://github.com/7lang/7morelang
 
 ## Programming Languages:
 
-### ![lua] Lua
+### ![lua]
+[lua]: /images/lua.png
 
 * Lightweight
 * Multi-paradigm scripting language 
@@ -21,15 +22,14 @@ See also the official repository: [7morelang](https://github.com/7lang/7morelang
 * Fast execution
 * Short learning curve
 
-[lua]: /images/lua.png
-
-[Lua Wiki](http://lua-users.org/wiki/)
-[Books](http://lua-users.org/wiki/LuaBooks)
-["Programming in Lua" book (free 1st edition)](https://www.lua.org/pil/contents.html)
-[Reference Manual](http://www.lua.org/manual/5.3/)
+[Lua Wiki](http://lua-users.org/wiki/) | 
+[Books](http://lua-users.org/wiki/LuaBooks) | 
+["Programming in Lua" book (free 1st edition)](https://www.lua.org/pil/contents.html) | 
+[Reference Manual](http://www.lua.org/manual/5.3/) | 
 [Integrating Lua into UE](https://wiki.unrealengine.com/Integrating_Lua)
 
-### ![factor] Factor
+### ![factor]
+[factor]: /images/factor.png
 
 * Stack-oriented 
 * Dynamically typed 
@@ -41,9 +41,20 @@ See also the official repository: [7morelang](https://github.com/7lang/7morelang
 * Each word takes a fixed number of arguments and has a fixed number of return values
 * Arguments to words are passed on a data stack (Stack is used just to organize calls to words, not as a datastructure)
 
-[factor]: /images/factor.png
+### ![elm]
+[elm]: /images/elm.png
 
-### Next language...
+* Declaratively create web browser-based UI
+* Purely functional
+* "No runtime exceptions in practice" -> Made possible by the Elm compiler's static type checking
+* Anonymous functions
+* Functions as arguments
+* Partial application (currying) by default
+* Immutable values
+* Stateless functions
+* Static typing with type inference
+* Render HTML through a virtual DOM
+* Interoperate with other code by using "JavaScript as a service"
 
 ----
 

@@ -31,8 +31,6 @@ See also the official repository: [7morelang](https://github.com/7lang/7morelang
 
 ### ![factor] Factor
 
-* TODO
-
 * Stack-oriented 
 * Dynamically typed 
 * Automatic memory management
